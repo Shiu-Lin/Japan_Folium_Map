@@ -7,3 +7,7 @@ Please move to the geopanda folder and use command line "pip install ."
 
 Step 2. run <folium_map.py>
 
+
+Result 1:
+![alt text](http://url/to/img.png)
+
