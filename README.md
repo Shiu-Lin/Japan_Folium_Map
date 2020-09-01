@@ -7,6 +7,9 @@ Please move to the geopanda folder and use command line "pip install ."
 
 Step 2. run <folium_map.py>
 
+The data of <prefecture_photo.csv> and <tokyo23data.csv> are a part of my research data, which presents the number of photos in each prefecture and city.
+(Using Flickr API, 769,749 photographs taken in 2017 at geolocations throughout Japan were collected.)
+
 
 Result 1 (prefecture_photos):
 
