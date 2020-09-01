@@ -9,5 +9,5 @@ Step 2. run <folium_map.py>
 
 
 Result 1:
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Shiu-Lin/Japan_Folium_Map/blob/master/image/prefecture_photos.png)
 
