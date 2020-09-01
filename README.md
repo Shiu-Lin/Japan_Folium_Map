@@ -14,7 +14,7 @@ Result 1 (prefecture_photos):
 
 Result 2 (prefecture_clusters):
 
-![alt text](https://github.com/Shiu-Lin/Japan_Folium_Map/blob/master/image/prefecture_clusters.png)
+![alt text](https://github.com/Shiu-Lin/Japan_Folium_Map/blob/master/image/prefecture_cluster.png)
 
 Result 3 (Tokyo23_photos):
 
